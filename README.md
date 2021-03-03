@@ -1,6 +1,6 @@
   
   
-  > # **sadad**
+  > # **Readme Generator**
 
 
   > ## *Table of Contents*
@@ -11,15 +11,14 @@
   - [Questions](#Questions)
   
   > ## *Description*
-      adad
+        Lightweight ReadMe generator for your future projects. It was used in the generation of this actual Readme!
   > ## *Usage*
-      adad
+        Open for free use
   > ## *Contributing*
-      adad
+        Created by myself
   > ## *Tests*
-      adda
+        N/A
   > ## *Questions* 
-      GitHub Username: adadad
-      My Email: [chmanuel1@yahoo.com](chmanuel1@yahoo.com)
+      GitHub Username: Chmanny1@github.com
 
       Reach me here with any additional questions.

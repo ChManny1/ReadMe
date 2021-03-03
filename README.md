@@ -1,4 +1,4 @@
-  
+  ![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)
   
   > # **Readme Generator**
 
